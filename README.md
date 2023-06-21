@@ -6,4 +6,4 @@ We use the modern browser JavaScript APIs to copy the SVG frames to a canvas and
 It's a static website, without server side.
 There is no real SVG upload nor video download.
 
-Find the result online with the Github Pages: https://lenra-io.github.io/svg-recorder/
+Find the result online with the Github Pages: https://RFoxtea.github.io/svg-recorder/
